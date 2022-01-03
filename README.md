@@ -4,6 +4,8 @@
 
 ✨ My interests are in type theory, programming language theory, and logic. My expected graduation date is December 2023.
 
+![Runming's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulir&show_icons=true&count_private=true)
+
 <!--
 **EULIR/EULIR** is a  repository because its `README.md` (this file) appears on your GitHub profile.
 
